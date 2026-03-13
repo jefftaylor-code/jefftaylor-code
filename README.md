@@ -1,16 +1,25 @@
-## Hi there 👋
+# Jeff Taylor
 
-<!--
-**jefftaylor-code/jefftaylor-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+RF and Network Intelligence engineer exploring how automation, telemetry analytics and AI can improve telecom network operations.
 
-Here are some ideas to get you started:
+## Focus Areas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Network telemetry pipelines  
+• RF optimization analytics  
+• Telecom anomaly detection  
+• AI-assisted troubleshooting workflows  
+• RAG systems for engineering knowledge  
+
+## Featured Project
+
+🔬 Network Intelligence Lab  
+Experiments combining RF engineering data, KPI telemetry and AI workflows to support network troubleshooting and optimization.
+
+## Technologies
+
+Python  
+SQL  
+Telecom KPI analytics  
+LLM workflows  
+RAG systems  
+Automation tools
