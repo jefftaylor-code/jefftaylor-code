@@ -1,6 +1,6 @@
 # Jeff Taylor
 
-RF and Network Intelligence engineer exploring how automation, telemetry analytics and AI can improve telecom network operations.
+RF and Network Intelligence engineer building automation, telemetry analytics and AI-assisted tools for telecom network operations.
 
 ## Focus Areas
 
