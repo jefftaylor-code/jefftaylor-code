@@ -14,7 +14,7 @@ I build systems that turn complex data into decisions that pay back. 30+ years i
 | [Iron-Log](https://github.com/jefftaylor-code/Iron-Log) | Installable one-file web app that logs workouts to Google Sheets. |
 | [jeff-site](https://github.com/jefftaylor-code/jeff-site) | Source for jefferyataylor.com, deployed on Cloudflare Pages. |
 
-Some of my work is private (Calivect, a managed job-search service built by AI coding agents under my direction) or stayed with past employers. The site lists all 15 builds and collaborations, with the problem, what I built and the money angle for each.
+Some of my work is private (Calivect, a managed job-search service built by AI coding agents under my direction) or stayed with past employers. The site lists every build and collaboration, with the problem, what I built and the money angle for each.
 
 ## Contact
 
